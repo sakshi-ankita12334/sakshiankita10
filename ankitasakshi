@@ -1,0 +1,11 @@
+list1=["apple","banana","cherry","mango"]
+list2=[1,5,7,9,3]
+list3=[true,false,false]
+print(list1)
+print(list2)
+print(list3)
+
+output:['apple','banana','cherry','mango']
+       [1,5,7,9,3]
+       [true,false,false]
+        
